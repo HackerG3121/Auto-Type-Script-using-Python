@@ -33,7 +33,7 @@ cd autotype
 
 **2. Install dependencies:**
 ```bash
-pip install -r requirements.txt
+pip install -r requrededpip.txt
 ```
 
 > ⚠️ On Linux/macOS you may need to run with `sudo` due to keyboard hook permissions.
