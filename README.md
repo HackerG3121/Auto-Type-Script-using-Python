@@ -27,7 +27,7 @@
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/autotype.git
+git clone https://github.com/HackerG3121/Auto-Type-Script-using-Python.git
 cd autotype
 ```
 
