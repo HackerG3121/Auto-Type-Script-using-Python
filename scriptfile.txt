@@ -1,2 +1,41 @@
-This is the text that will be auto-typed.
-You can add as many lines as you want.
+Hi, I'm HackerG 👋
+
+Cyber Security Student | Ethical Hacking Learner | Developer
+I am a passionate student focused on cybersecurity, ethical hacking, and practical software development. I enjoy building security-focused projects, learning Linux, exploring networks, and improving my coding skills.
+
+What I do
+* Cybersecurity learning and research
+* Ethical hacking practice
+* Python and C programming
+* Linux and terminal tools
+* Web and app project building
+
+Tech Stack
+* Python
+* C
+* HTML
+* CSS
+* JavaScript
+* Linux
+* Git & GitHub
+* Kali Linux
+* Termux
+
+Currently Learning
+* Web security
+* Network security
+* Bug bounty basics
+* Android security
+* Tool building for cybersecurity
+
+Featured Goals
+* Build useful security tools
+* Publish more open-source projects
+* Improve coding and problem-solving
+* Share learning through GitHub
+
+Connect
+GitHub: @HackerG3121
+Email: Giriarumugam3121@gmail.com
+
+Focus: Cybersecurity | Development | Open Source
